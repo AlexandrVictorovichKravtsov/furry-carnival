@@ -3,9 +3,7 @@ akz
 #!/usr/bin/php
 <?php
 namespace
-
 class Application
-{
     public $opts;
 
     public $mode;
